@@ -1,0 +1,1 @@
+This serves as a provisional storage location for the materials utilized in developing the initial iteration of the AuCALME framework. Since the project is currently in a research and experimentation stage, we plan to make the source code available once we have achieved a stable and deployable version of the framework.
