@@ -1,0 +1,2 @@
+#This template is used to generate the data analysis script from the plan by executing each task sequentially. This method allows the model to perform better each task and reduce the error rate of the generated script while having the downside of consuming too much tokens.
+
