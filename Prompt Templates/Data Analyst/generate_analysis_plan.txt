@@ -1,3 +1,5 @@
+#This prompt will serve to generate the analysis plan of the dataset. The plan can then be executed step-by-step or at once.
+
 You are a data analyst. 
 You have a dataset in a file named <dataset file name> 
 <Dataset information>
